@@ -1,1 +1,1 @@
-worker: python -m Restriction
+worker: python -m Restriction & python hold.py
